@@ -8,4 +8,5 @@ scipy==0.16.1
 Theano==0.8
 seaborn==0.9.1
 plotly
+sklearn
                                                                                                                                
