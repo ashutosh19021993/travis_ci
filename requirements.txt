@@ -2,4 +2,5 @@
 #sudo apt-get install python-pip
 #sudo pip install numpy
  pandas
+ matplotlib.pyplot
                                                                                                                                
