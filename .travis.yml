@@ -1,6 +1,6 @@
 language: python
 before_script:
-  - pip uninstall numpy -y
+  - pip uninstall numpy* -y
   - pip install -I numpy==1.12.1
 python:
   - "2.7"
