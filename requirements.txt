@@ -1,4 +1,9 @@
 #pip install wheel
-sudo apt-get install python-pip
+#sudo apt-get install python-pip
 #sudo pip install numpy
 #pip install pandas
+                                                                                                                                                                                                                            
+  
+  pip install numpy                                                                                                               pip install colorama
+  pip install matplotlib
+  pip install nose  
