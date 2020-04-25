@@ -1,9 +1,9 @@
 #pip install wheel
 #sudo apt-get install python-pip
 #sudo pip install numpy
-pandas==0.13
+pandas==0.24.2
 matplotlib==2.2.5
-#numpy==1.12.1
+numpy==1.16.2
 scipy==0.16.1
 Theano==0.8
                                                                                                                                
