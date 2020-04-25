@@ -1,2 +1,4 @@
-pip install wheel
-pip install pandas
+#pip install wheel
+sudo apt-get install python-pip
+sudo pip install numpy
+sudo pip install pandas
